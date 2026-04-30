@@ -12,4 +12,4 @@ In diesem Projekt habe ich 3 verschiedene Ansätze zur Arbeit mit Tabellen in HT
 
 ## Verwendete Technololgien
 * **HTML5**
-* * **CSS3**
+* **CSS3**
