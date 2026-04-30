@@ -1,5 +1,5 @@
 # Übung: Die Arten von Tabellen
-In diesem Projekt habe ich 3 verschiedene Ansätze zur Arbeit mit Tabellen in HTML umgesetzt, um den Unterschied zwischen reiner Struktur und modernem Design zu verdeutlichen.
+In diesem Projekt habe ich 3 verschiedene Ansätze zur Arbeit mit Tabellen in HTML umgesetzt, um den Unterschied zwischen reiner Struktur, und modernem Design zu verdeutlichen.
 
 ## Inhalt der Übung
 
