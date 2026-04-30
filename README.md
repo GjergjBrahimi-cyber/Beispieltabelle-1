@@ -8,7 +8,7 @@ In diesem Projekt habe ich 3 verschiedene Ansätze zur Arbeit mit Tabellen in HT
 ('<table>' , '<thread>' , '<body>')
 
 ### 2. Die gestalete CSS-Tabelle (Styled Table)
-*Einsatz von 'border-collapse' und Farben.
+* Einsatz von 'border-collapse' und Farben.
 
 ## Verwendete Technololgien
 * **HTML5**
